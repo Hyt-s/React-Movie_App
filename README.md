@@ -1,5 +1,5 @@
 
-# Movie App 
+# React - Movie App 
 
 
 ## Project Skeleton
